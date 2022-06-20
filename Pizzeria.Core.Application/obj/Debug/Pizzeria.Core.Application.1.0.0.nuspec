@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pizzeria.Core.Application</id>
+    <version>1.0.0</version>
+    <authors>Pizzeria.Core.Application</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Carlos Duarte\source\repos\Pizzeria\Pizzeria.Core.Application\bin\Debug\netcoreapp3.1\Pizzeria.Core.Application.runtimeconfig.json" target="lib\netcoreapp3.1\Pizzeria.Core.Application.runtimeconfig.json" />
+    <file src="C:\Users\Carlos Duarte\source\repos\Pizzeria\Pizzeria.Core.Application\bin\Debug\netcoreapp3.1\Pizzeria.Core.Application.dll" target="lib\netcoreapp3.1\Pizzeria.Core.Application.dll" />
+  </files>
+</package>

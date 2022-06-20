@@ -1,0 +1,187 @@
+{
+	"info": {
+		"_postman_id": "4804da7f-527a-43f0-a0a5-aa93658ee2bc",
+		"name": "API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16595883"
+	},
+	"item": [
+		{
+			"name": "Empleado",
+			"item": [
+				{
+					"name": "Obtener Empleados",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44327/api/empleado",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"empleado"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Cliente",
+			"item": [
+				{
+					"name": "ObtenerClientes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44327/api/cliente",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"cliente"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Ingredientes",
+			"item": [
+				{
+					"name": "ObtenerIngredientes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44327/api/ingrediente",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"ingrediente"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ObtenerIngrendientePorId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44327/api/ingrediente/e93bf852-640c-4673-8c95-6e5912089def",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"ingrediente",
+								"e93bf852-640c-4673-8c95-6e5912089def"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "AgregarIngrediente",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ingredienteID\": \"ee85cc82-703d-4d42-926a-d46627f7093b\",\r\n    \"nombre\": \"Jamón\",\r\n    \"precio\": 50,\r\n    \"stock\": 30,\r\n    \"imagen\": \"./Content/Ingrediente/Jamon.jpg\",\r\n    \"unidadMedida\": \"oz\",\r\n    \"crearProductosNav\": null\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44327/api/ingrediente/",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"ingrediente",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ActualizarProducto",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ingredienteID\": \"e93bf852-640c-4673-8c95-6e5912089def\",\r\n    \"nombre\": \"Salami\",\r\n    \"precio\": 100,\r\n    \"stock\": 10,\r\n    \"imagen\": \"./Content/Ingrediente/Salami.jpg\",\r\n    \"unidadMedida\": \"oz\",\r\n    \"crearProductosNav\": null\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44327/api/ingrediente/e93bf852-640c-4673-8c95-6e5912089def",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"ingrediente",
+								"e93bf852-640c-4673-8c95-6e5912089def"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "EliminarIngrediente",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44327/api/ingrediente/e93bf852-640c-4673-8c95-6e5912089def",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44327",
+							"path": [
+								"api",
+								"ingrediente",
+								"e93bf852-640c-4673-8c95-6e5912089def"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
