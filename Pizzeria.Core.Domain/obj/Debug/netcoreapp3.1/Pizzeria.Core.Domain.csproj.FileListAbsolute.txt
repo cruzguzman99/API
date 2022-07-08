@@ -11,3 +11,16 @@ C:\Users\Carlos Duarte\source\repos\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netc
 C:\Users\Carlos Duarte\source\repos\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.dll
 C:\Users\Carlos Duarte\source\repos\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.pdb
 C:\Users\Carlos Duarte\source\repos\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.genruntimeconfig.cache
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\bin\Debug\netcoreapp3.1\Pizzeria.Core.Domain.deps.json
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\bin\Debug\netcoreapp3.1\Pizzeria.Core.Domain.runtimeconfig.json
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\bin\Debug\netcoreapp3.1\Pizzeria.Core.Domain.runtimeconfig.dev.json
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\bin\Debug\netcoreapp3.1\Pizzeria.Core.Domain.dll
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\bin\Debug\netcoreapp3.1\Pizzeria.Core.Domain.pdb
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.AssemblyInfo.cs
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.dll
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.pdb
+C:\Users\Carlos Duarte\source\repos\EvelingProjects\Pizzeria\Pizzeria.Core.Domain\obj\Debug\netcoreapp3.1\Pizzeria.Core.Domain.genruntimeconfig.cache

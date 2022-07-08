@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {}
+    "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
+    "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
         "projectName": "Pizzeria.Core.Domain",
-        "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
+        "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\Carlos Duarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config",

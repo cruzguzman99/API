@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i83WAkRjxoF3GOvjbMlBPdHqcFoUJb8JkXYINUo1Y4ZUhLKnQIOUcHL+Y4UvC17ktQrkFJ7HhlqZ9EM9MYYTwg==",
+  "dgSpecHash": "c8HM/RYtZ4r8fBdPqR/muXIKp1/7xTD1MHvznBpRHMysBCEtUQgLNKcEPnz6ZNZNTg0Z4Js/3N5eulBUoFBp3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Duarte\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Carlos Duarte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

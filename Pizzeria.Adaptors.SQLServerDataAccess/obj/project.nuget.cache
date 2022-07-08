@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3RGeDvP/QEopmqtVIK/k2xret5uuNA+kXwj4VRnZpkAml7GEo2CC4OSvpZSLchRiMFjT5dq1qoKc0XNex7j8g==",
+  "dgSpecHash": "hL0ujq4vI4vvHMfbhSgIX0k9Yyp5jSFlr4gWy/5LaWNWcxKChJEwt0oP4G3lKGKwTzIYUehEPRtVC20IT6f3Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Duarte\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Carlos Duarte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

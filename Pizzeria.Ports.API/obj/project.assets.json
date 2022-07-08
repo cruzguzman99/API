@@ -5791,11 +5791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Ports.API\\Pizzeria.Ports.API.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Ports.API\\Pizzeria.Ports.API.csproj",
       "projectName": "Pizzeria.Ports.API",
-      "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Ports.API\\Pizzeria.Ports.API.csproj",
+      "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Ports.API\\Pizzeria.Ports.API.csproj",
       "packagesPath": "C:\\Users\\Carlos Duarte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Ports.API\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Ports.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5812,17 +5812,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj"
+            "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj": {
+              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj"
             },
-            "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Application\\Pizzeria.Core.Application.csproj": {
-              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Application\\Pizzeria.Core.Application.csproj"
+            "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Application\\Pizzeria.Core.Application.csproj": {
+              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Application\\Pizzeria.Core.Application.csproj"
             },
-            "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
-              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj"
+            "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj"
             },
-            "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Infraestructure\\Pizzeria.Core.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Infraestructure\\Pizzeria.Core.Infraestructure.csproj"
+            "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Infraestructure\\Pizzeria.Core.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Infraestructure\\Pizzeria.Core.Infraestructure.csproj"
             }
           }
         }

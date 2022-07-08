@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj": {}
+    "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj": {
+    "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj",
         "projectName": "Pizzeria.Adaptors.SQLServerDataAccess",
-        "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj",
+        "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\Pizzeria.Adaptors.SQLServerDataAccess.csproj",
         "packagesPath": "C:\\Users\\Carlos Duarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Adaptors.SQLServerDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj"
+              "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
+    "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
         "projectName": "Pizzeria.Core.Domain",
-        "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
+        "projectPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\Pizzeria.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\Carlos Duarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config",

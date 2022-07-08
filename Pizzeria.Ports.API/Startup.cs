@@ -37,7 +37,7 @@ namespace Pizzeria.Ports.API
         {
             app.UseCors(option =>
             {
-                option.WithOrigins("http://localhost:5000");
+                option.WithOrigins("http://localhost:3000");
                 option.AllowAnyHeader();
                 option.AllowAnyMethod();
             });
@@ -49,6 +49,15 @@ namespace Pizzeria.Ports.API
             app.UseHttpsRedirection();
 
             app.UseHttpsRedirection();
+
+            app.UseStaticFiles();
+
+            app.UseStaticFiles(new StaticFileOptions()
+            {
+                FileProvider = new PhysicalFileProvider(
+                            Path.Combine(Directory.GetCurrentDirectory(), @"Content")),
+                RequestPath = new PathString("/Content")
+            });
 
             app.UseRouting();
 

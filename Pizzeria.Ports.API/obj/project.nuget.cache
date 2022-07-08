@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YotfvVwbDbK006TmAfKs1QPv5lQA4WKCk3r9hfxbpepIEbRek36z/B4aGtv7JRAsGi+g68Cz379pYtzrMTWv4g==",
+  "dgSpecHash": "jRiCpFdMGPynfOAOHwerQwBdOwhggOeLCkvmcVIUC83yXRte3dB0ieb78mHl08dcK1ClAQU/iBGzxufKDe9HmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Duarte\\source\\repos\\Pizzeria\\Pizzeria.Ports.API\\Pizzeria.Ports.API.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Duarte\\source\\repos\\EvelingProjects\\Pizzeria\\Pizzeria.Ports.API\\Pizzeria.Ports.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Duarte\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Carlos Duarte\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
